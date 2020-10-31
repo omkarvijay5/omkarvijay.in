@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-A passionate senior full stack developer having experience in building innovative large-scale, high volume, and distributed products with new ideas and technologies that can make a significant impact on the end user and the customer.
+Passionate and entusiastic python full stack developer having experience in building innovative large-scale, high volume web applications and distributed products with new ideas and technologies that can make a significant impact on the end user and the customer.
