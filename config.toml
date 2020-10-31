@@ -14,7 +14,7 @@ favicon = "/favicon.ico"
 firstName = "Omkar"
 lastName = "Vijay"
 phone = "+91-9010669836"
-description = "Passionate and entusiastic python full stack developer having experience in building innovative large-scale, high volume web applications and distributed products with new ideas and technologies that can make a significant impact on the end user and the customer."
+description = "I'm python full stack developer having experience in building innovative large-scale, high volume web applications and distributed products using python, django, djangorestframwork, that can make a significant impact on the end user and the customer."
 designation = "Python Developer"
 profileImage = "img/vijay.jpeg"
 showEducation = true
@@ -30,7 +30,7 @@ showFooterText = true
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerid = "XX-123446-01"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/omkarvijay/"
