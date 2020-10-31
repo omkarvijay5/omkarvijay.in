@@ -1,5 +1,5 @@
 title = "Omkar Vijay"
-baseURL = "http://omkarvijay.in/"
+baseURL = "https://omkarvijay.in/"
 theme = "portfolio"
 languageCode = "en-us"
 PygmentsCodeFences = true
