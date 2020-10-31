@@ -2,291 +2,291 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Omkar Vijay</title>
-    <link>https://example.com/tags/</link>
+    <link>https://omkarvijay.in/tags/</link>
     <description>Recent content in Tags on Omkar Vijay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omkarvijay.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker</title>
-      <link>https://example.com/tags/docker/</link>
+      <link>https://omkarvijay.in/tags/docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://example.com/tags/docker/</guid>
+      <guid>https://omkarvijay.in/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://example.com/tags/javascript/</link>
+      <link>https://omkarvijay.in/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://example.com/tags/javascript/</guid>
+      <guid>https://omkarvijay.in/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JSON</title>
-      <link>https://example.com/tags/json/</link>
+      <link>https://omkarvijay.in/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://example.com/tags/json/</guid>
+      <guid>https://omkarvijay.in/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node.js</title>
-      <link>https://example.com/tags/node.js/</link>
+      <link>https://omkarvijay.in/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://example.com/tags/node.js/</guid>
+      <guid>https://omkarvijay.in/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>https://example.com/tags/rest-apis/</link>
+      <link>https://omkarvijay.in/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://example.com/tags/rest-apis/</guid>
+      <guid>https://omkarvijay.in/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
-      <link>https://example.com/tags/atlassian-ecosystem/</link>
+      <link>https://omkarvijay.in/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/atlassian-ecosystem/</guid>
+      <guid>https://omkarvijay.in/tags/atlassian-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOSH</title>
-      <link>https://example.com/tags/bosh/</link>
+      <link>https://omkarvijay.in/tags/bosh/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/bosh/</guid>
+      <guid>https://omkarvijay.in/tags/bosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://example.com/tags/devops/</link>
+      <link>https://omkarvijay.in/tags/devops/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/devops/</guid>
+      <guid>https://omkarvijay.in/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://example.com/tags/java/</link>
+      <link>https://omkarvijay.in/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/java/</guid>
+      <guid>https://omkarvijay.in/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>monit</title>
-      <link>https://example.com/tags/monit/</link>
+      <link>https://omkarvijay.in/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/monit/</guid>
+      <guid>https://omkarvijay.in/tags/monit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://example.com/tags/python/</link>
+      <link>https://omkarvijay.in/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/tags/python/</guid>
+      <guid>https://omkarvijay.in/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agile</title>
-      <link>https://example.com/tags/agile/</link>
+      <link>https://omkarvijay.in/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/agile/</guid>
+      <guid>https://omkarvijay.in/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://example.com/tags/continuous-delivery/</link>
+      <link>https://omkarvijay.in/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/continuous-delivery/</guid>
+      <guid>https://omkarvijay.in/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://example.com/tags/continuous-integration/</link>
+      <link>https://omkarvijay.in/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/continuous-integration/</guid>
+      <guid>https://omkarvijay.in/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://example.com/tags/culture/</link>
+      <link>https://omkarvijay.in/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/culture/</guid>
+      <guid>https://omkarvijay.in/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://example.com/tags/apache/</link>
+      <link>https://omkarvijay.in/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/apache/</guid>
+      <guid>https://omkarvijay.in/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://example.com/tags/redirect/</link>
+      <link>https://omkarvijay.in/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/redirect/</guid>
+      <guid>https://omkarvijay.in/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://example.com/tags/rewrite/</link>
+      <link>https://omkarvijay.in/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/rewrite/</guid>
+      <guid>https://omkarvijay.in/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://example.com/tags/ssl/</link>
+      <link>https://omkarvijay.in/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/ssl/</guid>
+      <guid>https://omkarvijay.in/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://example.com/tags/web-development/</link>
+      <link>https://omkarvijay.in/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/web-development/</guid>
+      <guid>https://omkarvijay.in/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>https://example.com/tags/atlassian-developer-ecosystem/</link>
+      <link>https://omkarvijay.in/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/atlassian-developer-ecosystem/</guid>
+      <guid>https://omkarvijay.in/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bamboo</title>
-      <link>https://example.com/tags/bamboo/</link>
+      <link>https://omkarvijay.in/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/bamboo/</guid>
+      <guid>https://omkarvijay.in/tags/bamboo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash/shell</title>
-      <link>https://example.com/tags/bash/shell/</link>
+      <link>https://omkarvijay.in/tags/bash/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/bash/shell/</guid>
+      <guid>https://omkarvijay.in/tags/bash/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bitbucket</title>
-      <link>https://example.com/tags/bitbucket/</link>
+      <link>https://omkarvijay.in/tags/bitbucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/bitbucket/</guid>
+      <guid>https://omkarvijay.in/tags/bitbucket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD pipelines</title>
-      <link>https://example.com/tags/ci/cd-pipelines/</link>
+      <link>https://omkarvijay.in/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ci/cd-pipelines/</guid>
+      <guid>https://omkarvijay.in/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confluence</title>
-      <link>https://example.com/tags/confluence/</link>
+      <link>https://omkarvijay.in/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/confluence/</guid>
+      <guid>https://omkarvijay.in/tags/confluence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JIRA</title>
-      <link>https://example.com/tags/jira/</link>
+      <link>https://omkarvijay.in/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/jira/</guid>
+      <guid>https://omkarvijay.in/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jQuery</title>
-      <link>https://example.com/tags/jquery/</link>
+      <link>https://omkarvijay.in/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/jquery/</guid>
+      <guid>https://omkarvijay.in/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>https://example.com/tags/maven/</link>
+      <link>https://omkarvijay.in/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/maven/</guid>
+      <guid>https://omkarvijay.in/tags/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>https://example.com/tags/spring/</link>
+      <link>https://omkarvijay.in/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/spring/</guid>
+      <guid>https://omkarvijay.in/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xml/xslt</title>
-      <link>https://example.com/tags/xml/xslt/</link>
+      <link>https://omkarvijay.in/tags/xml/xslt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/xml/xslt/</guid>
+      <guid>https://omkarvijay.in/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
