@@ -1,0 +1,10 @@
+[
+    {
+        "package":"Oracle Cloud Infrastructure SDK for Typescript",
+        "packageLink": "https://github.com/oracle/oci-typescript-sdk",
+        "description": "OCI SDK enables to write code to manage Oracle Cloud Infrastructure resources.",
+        "technology":"typescript,javascript",
+        "summary": "Contributed below missing examples in typescript and javascript versions\n- Creating pre authenticated request for existing file in the storage. \n- Renaming existing file in the storage.\n- Deleting an existing file from the storage.",
+        "MRLink": "https://github.com/oracle/oci-typescript-sdk/pull/10"
+    }
+]

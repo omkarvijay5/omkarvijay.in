@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Senior Software Developer 3 (Technical Lead)",
+        "company":"Oracle India Private Limited - Hyderabad",
+        "summary": "Took the lead in stabilizing the product in critical situation by fixing various levels of severity bugs and implemented major features which impacted major customers in a short time.\n- Improved the performance of the sync time by **66%** by optimizing backend queries which made a signifant improvent in the load time for the customers.\n- Upgraded the application from python **1.7 to 3.5**, **Django 1.8 to 2.2.3**\n- Participated in peer code reviews, evaluated technical feasibility and guided them in following best coding practices",
+        "range":"July 2018 - Present"
+    },
+    {
+        "role":"Senior Software Developer",
+        "company":"Realtime Register India Private Limited - Bangalore",
+        "summary":"\n-Build microservices for various internal apps\n-Configured continuous integration/continuous deployment using Docker, CircleCI",
+        "range":"July 2017 - May 2018"
+    },
+    {
+        "role":"Software Developer",
+        "company":"Agiliq Info Solutions Private Limited - Hyderabad",
+        "summary":"worked as a **python**, **django** full stack developer on multiple client projects\n- Built scalable apps and RESTful services using **django**, **djangorestframework**\n- Improved the performance of the search using **Elastic Search**\n-Deployed various applications using **AWS EC2, S3, RDS**, **Nginx**, **Gunicorn**, **Supervisord**",
+        "range":"June 2014 - June 2017"
+    },
+    {
+        "role":"Software Intern",
+        "company":"Crypsis Technologies Private Limited - Hyderabad",
+        "summary":"Worked on various multiple projects and upskilled in web technologies like **ruby**, **Ruby on Rails**",
+        "range":"June 2014 - June 2017"
+    }
+]

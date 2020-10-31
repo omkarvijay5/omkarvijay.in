@@ -1,0 +1,99 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[
+        {"title": "Python", "icon": "devicon-python-plain"},
+        {"title": "Typescript", "icon": "devicon-typescript-plain"},
+        {"title": "Ruby", "icon": "devicon-ruby-plain"}
+      ]
+  },
+  {
+      "grouping":"Frameworks",
+      "skills":[
+        {"title": "Django", "icon": "devicon-django-plain"},
+        {"title": "Django Rest Framework", "icon": "devicon-django-plain"},
+        {"title": "Flask", "icon": "devicon-django-plain"},
+        {"title": "microservices", "icon": "fa fa-network-wired"}
+      ]
+  },
+  {
+      "grouping":"Operating Systems",
+      "skills":[
+        {"title": "Linux", "icon": "devicon-linux-plain"},
+        {"title": "Debian Ubuntu", "icon": "devicon-ubuntu-plain"},
+        {"title": "CentOS", "icon": "fa fa-server"},
+        {"title": "Mac OSX", "icon": "devicon-apple-plain"}
+      ]
+  },
+  {
+      "grouping":"Web Servers",
+      "skills":[
+        {"title": "Nginx", "icon": "devicon-nginx-plain"},
+        {"title": "Apache", "icon": "devicon-apache-plain"},
+        {"title": "Gunicorn", "icon": "fa fa-server"},
+        {"title": "uWSGI", "icon": "fa fa-server"}
+      ]
+  },
+  {
+      "grouping":"Cloud Services",
+      "skills":[
+        {"title": "AWS S3", "icon": "devicon-amazonwebservices-plain"},
+        {"title": "AWS EC2", "icon": "devicon-amazonwebservices-plain"},
+        {"title": "AWS RDS", "icon": "devicon-amazonwebservices-plain"},
+        {"title": "Elastic Search", "icon": "fab fa-aws"},
+        {"title": "Heroku", "icon": "devicon-heroku-plain"}
+      ]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[
+        {"title": "PostgreSQL", "icon": "devicon-postgresql-plain"},
+        {"title": "MySQL", "icon": "devicon-mysql-plain"},
+        {"title": "Redis", "icon": "devicon-redis-plain"},
+        {"title": "Oracle Soda DB", "icon": "devicon-oracle-plain"}
+      ]
+  },
+  {
+      "grouping":"Deployment Tools",
+      "skills":[
+        {"title": "Docker", "icon": "devicon-docker-plain"},
+        {"title": "CircleCI", "icon": "fa fa-server"},
+        {"title": "Fabric", "icon": "fa fa-server"}
+      ]
+  },
+  {
+      "grouping":"Node",
+      "skills":[
+        {"title": "Typescript", "icon": "devicon-nodejs-plain"},
+        {"title": "Express.js", "icon": "devicon-nodejs-plain"},
+        {"title": "Oracle JET", "icon": "devicon-oracle-plain"},
+        {"title": "React.js", "icon": "devicon-react-plain"}
+      ]
+  },
+  {
+      "grouping":"Frontend Tools",
+      "skills":[
+        {"title": "HTML", "icon": "devicon-html5-plain"},
+        {"title": "CSS", "icon": "devicon-css3-plain"},
+        {"title": "Bootstrap", "icon": "devicon-bootstrap-plain"},
+        {"title": "JQuery", "icon": "devicon-jquery-plain"},
+        {"title": "Javascript", "icon": "devicon-javascript-plain"}
+      ]
+  },
+  {
+      "grouping":"Interactive Development Environments",
+      "skills":[
+        {"title": "PyCharm", "icon": "devicon-pycharm-plain"},
+        {"title": "VSCode", "icon": "devicon-visualstudio-plain"},
+        {"title": "Vim", "icon": "devicon-vim-plain"},
+        {"title": "Atom", "icon": "devicon-atom-plain"}
+      ]
+  },
+  {
+      "grouping":"Version Control",
+      "skills":[
+        {"title": "Git", "icon": "devicon-git-plain"},
+        {"title": "Gitlab", "icon": "devicon-gitlab-plain"}
+      ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "school":"Jawaharlal Nehru Technological University Hyderabad",
+        "degree":"Bachelor of Technology",
+        "major":"**Electronics and Communication Engineering**",
+        "range":"2007 - 2013"
+    },
+    {
+        "school":"University Of Hyderabad",
+        "degree":"Embedded R&D Intern",
+        "major":"**Signal Processing and Matlab Simulink**",
+        "range":"September 2012 - June 2013",
+        "notes": "\n- The project involved position estimatio of 3-D moving unmanned aerial vehicles(Drones) by integrating intertial navigation systems (Accelerometer and Gyroscope) and GPS.\n- A **9 state Kalman Filter** works on prediction and correction algorithm was designed using simulink to esimate the errors in GPS/INS.\n- Measurement and process noise having covariances **0.1** and **0.01** was de-noised successfully.\n- Further research would involde design of **UNSCENTED KALMAN FILTER** with **UNSUPERVISED LEARNING** for non linear signals and **indoor navigations**"
+    }
+]

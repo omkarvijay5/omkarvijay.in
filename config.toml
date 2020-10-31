@@ -1,0 +1,60 @@
+title = "Omkar Vijay"
+baseURL = "https://example.com/"
+theme = "portfolio"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Hyderabad, India"
+email = "omkarvijay5@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Omkar"
+lastName = "Vijay"
+phone = "+91-9010669836"
+profileImage = "img/vijay.jpeg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = false
+showPublications = false
+showQr = true
+showSkills = true
+showBlog = false
+showFooterText = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/omkarvijay/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/omkarvijay5"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://stackoverflow.com/users/4758039/omkarvijay"
+icon = "stack-overflow"
+name = "Stack Overflow"
+
+[[params.handles]]
+link = "https://www.facebook.com/omkar.vijay.3"
+icon = "fab fa-facebook-square"
+name = "Facebook"
+
+[[params.handles]]
+link = "https://www.instagram.com/omkarvijay5/"
+icon = "fa fa-instagram"
+name = "Instagram"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
