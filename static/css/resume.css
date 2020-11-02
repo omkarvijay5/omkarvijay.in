@@ -118,6 +118,12 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+@media (max-width: 767px) {
+  img#qr-code {
+    max-width: 30%;
+  }
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
@@ -133,6 +139,7 @@ section.resume-section .resume-item .resume-date {
     padding-bottom: 3rem !important;
   }
 }
+
 
 .bg-primary {
   background-color: #BD5D38 !important;
