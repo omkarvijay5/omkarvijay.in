@@ -26,6 +26,10 @@ div.skills-heading{
     margin-bottom:0.2em !important;
 }
 
+#skills-content ul {
+  line-height: 3;
+}
+
 
 
 /* From https://codepen.io/wbeeftink/pen/dIaDH */
